@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766551205605",
+    "project_id": "chitieu-7ee47",
+    "storage_bucket": "chitieu-7ee47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766551205605:android:081a97dd628b8aa5a3d60c",
+        "android_client_info": {
+          "package_name": "com.example.expense_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhwrgVnGHnjYMEFzo1EuXEfyHpBqdrgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
